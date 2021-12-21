@@ -1,0 +1,12 @@
+{
+  "name": "com.avt.hctool",
+  "version": "1.0.0",
+  "description": "Provides reusable code for most hyper casual game",
+  "displayName": "Hyper Casual Tool",
+  "unity": "2020.3",
+  "type": "library",
+  "author": {
+    "name": "An Viet Trung",
+    "email": "an.viettrung.m@gmail.com"
+  }
+}
